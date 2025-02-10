@@ -23,5 +23,5 @@ npx nodemon
 4. Instalar o Banco de dados no Mysql (Via XAMPP dar start em MySQL).
 5. Navegar até a pasta **./web** e executar o arquivo **index.html** no navegador ou via live server do VsCode.
 
-> [!NOTE]
+> [!IMPORTANT]
 > Para rodar, é necessário que sua máquina tenha Git, Node.js, MySQL e VSCode.
